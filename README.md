@@ -11,7 +11,12 @@ I live in Joinville, Santa Catarina, Brazil.
 
 #
 
+<div align="center">
+  
 ![Snake animation](https://github.com/willianmikhael/willianmikhael/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willianmikhael&show_icons=true&count_private=true&hide_border=true&title_color=d25ee5&icon_color=bd9fba&text_color=ECE9EE&bg_color=0D1117" alt="Willian Mikhael da Cunha github stats" /> 
