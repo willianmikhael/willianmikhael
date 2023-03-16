@@ -29,7 +29,7 @@ I live in Joinville, Santa Catarina, Brazil.
 #
 
 <div align="center">
-<h3>The repositories with this image are my college activities or projects!</h3>
+<h3>The repositories with name <strong>_CatolicaSC<strong> and this image at Readme are my college activities or projects!</h3>
 </div>
 
 
